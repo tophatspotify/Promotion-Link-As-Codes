@@ -1,0 +1,7 @@
+Import time
+print"I am Tophat_Spotify's promotion bot.")
+time.sleep(5)
+print("Follow Tophat on Spotify! https://open.spotify.com/artist/73tb2FoudiHF0ELMiRm17X?si=FLWRf1m5Tmy7wzHZeaatYQ ")
+time.sleep(5)
+print("Follow Tophat on Twitch! https://www.twitch.tv/007_doggo ")
+print("My job has now ended. Have a good time!")

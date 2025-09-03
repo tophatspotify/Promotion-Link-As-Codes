@@ -1,9 +1,1 @@
-Import time
-print"I am Tophat_Spotify's promotion bot.")
-time.sleep(5)
-print("Follow Tophat on Spotify! https://open.spotify.com/artist/73tb2FoudiHF0ELMiRm17X?si=FLWRf1m5Tmy7wzHZeaatYQ ")
-time.sleep(5)
-print("Follow Tophat on Twitch! https://www.twitch.tv/007_doggo ")
-time.sleep(2)
-print("follow Tophat's spotify profile! https://open.spotify.com/user/31esaqduiu7sxdc45pnuoa7v4yh4?si=H9AkUwgpT7uHmjR2RLXXTQ ")
-print("My job has now ended. Have a good time!")
+
